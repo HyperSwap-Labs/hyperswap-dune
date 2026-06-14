@@ -1,0 +1,2397 @@
+{
+  "updatedAt": "2026-06-14T15:44:57.773Z",
+  "source": "dune:7721591",
+  "total": 182366,
+  "series": [
+    {
+      "date": 1739836800,
+      "newUsers": 510,
+      "cumulative": 510
+    },
+    {
+      "date": 1739923200,
+      "newUsers": 912,
+      "cumulative": 1422
+    },
+    {
+      "date": 1740009600,
+      "newUsers": 399,
+      "cumulative": 1821
+    },
+    {
+      "date": 1740096000,
+      "newUsers": 554,
+      "cumulative": 2375
+    },
+    {
+      "date": 1740182400,
+      "newUsers": 515,
+      "cumulative": 2890
+    },
+    {
+      "date": 1740268800,
+      "newUsers": 676,
+      "cumulative": 3566
+    },
+    {
+      "date": 1740355200,
+      "newUsers": 521,
+      "cumulative": 4087
+    },
+    {
+      "date": 1740441600,
+      "newUsers": 436,
+      "cumulative": 4523
+    },
+    {
+      "date": 1740528000,
+      "newUsers": 456,
+      "cumulative": 4979
+    },
+    {
+      "date": 1740614400,
+      "newUsers": 286,
+      "cumulative": 5265
+    },
+    {
+      "date": 1740700800,
+      "newUsers": 122,
+      "cumulative": 5387
+    },
+    {
+      "date": 1740787200,
+      "newUsers": 232,
+      "cumulative": 5619
+    },
+    {
+      "date": 1740873600,
+      "newUsers": 202,
+      "cumulative": 5821
+    },
+    {
+      "date": 1740960000,
+      "newUsers": 153,
+      "cumulative": 5974
+    },
+    {
+      "date": 1741046400,
+      "newUsers": 406,
+      "cumulative": 6380
+    },
+    {
+      "date": 1741132800,
+      "newUsers": 141,
+      "cumulative": 6521
+    },
+    {
+      "date": 1741219200,
+      "newUsers": 89,
+      "cumulative": 6610
+    },
+    {
+      "date": 1741305600,
+      "newUsers": 108,
+      "cumulative": 6718
+    },
+    {
+      "date": 1741392000,
+      "newUsers": 84,
+      "cumulative": 6802
+    },
+    {
+      "date": 1741478400,
+      "newUsers": 100,
+      "cumulative": 6902
+    },
+    {
+      "date": 1741564800,
+      "newUsers": 155,
+      "cumulative": 7057
+    },
+    {
+      "date": 1741651200,
+      "newUsers": 211,
+      "cumulative": 7268
+    },
+    {
+      "date": 1741737600,
+      "newUsers": 196,
+      "cumulative": 7464
+    },
+    {
+      "date": 1741824000,
+      "newUsers": 131,
+      "cumulative": 7595
+    },
+    {
+      "date": 1741910400,
+      "newUsers": 111,
+      "cumulative": 7706
+    },
+    {
+      "date": 1741996800,
+      "newUsers": 131,
+      "cumulative": 7837
+    },
+    {
+      "date": 1742083200,
+      "newUsers": 140,
+      "cumulative": 7977
+    },
+    {
+      "date": 1742169600,
+      "newUsers": 155,
+      "cumulative": 8132
+    },
+    {
+      "date": 1742256000,
+      "newUsers": 193,
+      "cumulative": 8325
+    },
+    {
+      "date": 1742342400,
+      "newUsers": 175,
+      "cumulative": 8500
+    },
+    {
+      "date": 1742428800,
+      "newUsers": 146,
+      "cumulative": 8646
+    },
+    {
+      "date": 1742515200,
+      "newUsers": 147,
+      "cumulative": 8793
+    },
+    {
+      "date": 1742601600,
+      "newUsers": 199,
+      "cumulative": 8992
+    },
+    {
+      "date": 1742688000,
+      "newUsers": 202,
+      "cumulative": 9194
+    },
+    {
+      "date": 1742774400,
+      "newUsers": 352,
+      "cumulative": 9546
+    },
+    {
+      "date": 1742860800,
+      "newUsers": 326,
+      "cumulative": 9872
+    },
+    {
+      "date": 1742947200,
+      "newUsers": 276,
+      "cumulative": 10148
+    },
+    {
+      "date": 1743033600,
+      "newUsers": 179,
+      "cumulative": 10327
+    },
+    {
+      "date": 1743120000,
+      "newUsers": 146,
+      "cumulative": 10473
+    },
+    {
+      "date": 1743206400,
+      "newUsers": 141,
+      "cumulative": 10614
+    },
+    {
+      "date": 1743292800,
+      "newUsers": 142,
+      "cumulative": 10756
+    },
+    {
+      "date": 1743379200,
+      "newUsers": 164,
+      "cumulative": 10920
+    },
+    {
+      "date": 1743465600,
+      "newUsers": 166,
+      "cumulative": 11086
+    },
+    {
+      "date": 1743552000,
+      "newUsers": 192,
+      "cumulative": 11278
+    },
+    {
+      "date": 1743638400,
+      "newUsers": 180,
+      "cumulative": 11458
+    },
+    {
+      "date": 1743724800,
+      "newUsers": 200,
+      "cumulative": 11658
+    },
+    {
+      "date": 1743811200,
+      "newUsers": 192,
+      "cumulative": 11850
+    },
+    {
+      "date": 1743897600,
+      "newUsers": 135,
+      "cumulative": 11985
+    },
+    {
+      "date": 1743984000,
+      "newUsers": 191,
+      "cumulative": 12176
+    },
+    {
+      "date": 1744070400,
+      "newUsers": 241,
+      "cumulative": 12417
+    },
+    {
+      "date": 1744156800,
+      "newUsers": 177,
+      "cumulative": 12594
+    },
+    {
+      "date": 1744243200,
+      "newUsers": 203,
+      "cumulative": 12797
+    },
+    {
+      "date": 1744329600,
+      "newUsers": 167,
+      "cumulative": 12964
+    },
+    {
+      "date": 1744416000,
+      "newUsers": 179,
+      "cumulative": 13143
+    },
+    {
+      "date": 1744502400,
+      "newUsers": 162,
+      "cumulative": 13305
+    },
+    {
+      "date": 1744588800,
+      "newUsers": 405,
+      "cumulative": 13710
+    },
+    {
+      "date": 1744675200,
+      "newUsers": 223,
+      "cumulative": 13933
+    },
+    {
+      "date": 1744761600,
+      "newUsers": 562,
+      "cumulative": 14495
+    },
+    {
+      "date": 1744848000,
+      "newUsers": 350,
+      "cumulative": 14845
+    },
+    {
+      "date": 1744934400,
+      "newUsers": 300,
+      "cumulative": 15145
+    },
+    {
+      "date": 1745020800,
+      "newUsers": 261,
+      "cumulative": 15406
+    },
+    {
+      "date": 1745107200,
+      "newUsers": 268,
+      "cumulative": 15674
+    },
+    {
+      "date": 1745193600,
+      "newUsers": 368,
+      "cumulative": 16042
+    },
+    {
+      "date": 1745280000,
+      "newUsers": 382,
+      "cumulative": 16424
+    },
+    {
+      "date": 1745366400,
+      "newUsers": 246,
+      "cumulative": 16670
+    },
+    {
+      "date": 1745452800,
+      "newUsers": 334,
+      "cumulative": 17004
+    },
+    {
+      "date": 1745539200,
+      "newUsers": 330,
+      "cumulative": 17334
+    },
+    {
+      "date": 1745625600,
+      "newUsers": 320,
+      "cumulative": 17654
+    },
+    {
+      "date": 1745712000,
+      "newUsers": 1867,
+      "cumulative": 19521
+    },
+    {
+      "date": 1745798400,
+      "newUsers": 4441,
+      "cumulative": 23962
+    },
+    {
+      "date": 1745884800,
+      "newUsers": 4032,
+      "cumulative": 27994
+    },
+    {
+      "date": 1745971200,
+      "newUsers": 1965,
+      "cumulative": 29959
+    },
+    {
+      "date": 1746057600,
+      "newUsers": 1730,
+      "cumulative": 31689
+    },
+    {
+      "date": 1746144000,
+      "newUsers": 1692,
+      "cumulative": 33381
+    },
+    {
+      "date": 1746230400,
+      "newUsers": 1427,
+      "cumulative": 34808
+    },
+    {
+      "date": 1746316800,
+      "newUsers": 3864,
+      "cumulative": 38672
+    },
+    {
+      "date": 1746403200,
+      "newUsers": 1307,
+      "cumulative": 39979
+    },
+    {
+      "date": 1746489600,
+      "newUsers": 177,
+      "cumulative": 40156
+    },
+    {
+      "date": 1746576000,
+      "newUsers": 1841,
+      "cumulative": 41997
+    },
+    {
+      "date": 1746662400,
+      "newUsers": 3871,
+      "cumulative": 45868
+    },
+    {
+      "date": 1746748800,
+      "newUsers": 2678,
+      "cumulative": 48546
+    },
+    {
+      "date": 1746835200,
+      "newUsers": 458,
+      "cumulative": 49004
+    },
+    {
+      "date": 1746921600,
+      "newUsers": 1337,
+      "cumulative": 50341
+    },
+    {
+      "date": 1747008000,
+      "newUsers": 576,
+      "cumulative": 50917
+    },
+    {
+      "date": 1747094400,
+      "newUsers": 278,
+      "cumulative": 51195
+    },
+    {
+      "date": 1747180800,
+      "newUsers": 418,
+      "cumulative": 51613
+    },
+    {
+      "date": 1747267200,
+      "newUsers": 429,
+      "cumulative": 52042
+    },
+    {
+      "date": 1747353600,
+      "newUsers": 552,
+      "cumulative": 52594
+    },
+    {
+      "date": 1747440000,
+      "newUsers": 1537,
+      "cumulative": 54131
+    },
+    {
+      "date": 1747526400,
+      "newUsers": 267,
+      "cumulative": 54398
+    },
+    {
+      "date": 1747612800,
+      "newUsers": 299,
+      "cumulative": 54697
+    },
+    {
+      "date": 1747699200,
+      "newUsers": 1255,
+      "cumulative": 55952
+    },
+    {
+      "date": 1747785600,
+      "newUsers": 461,
+      "cumulative": 56413
+    },
+    {
+      "date": 1747872000,
+      "newUsers": 4154,
+      "cumulative": 60567
+    },
+    {
+      "date": 1747958400,
+      "newUsers": 2402,
+      "cumulative": 62969
+    },
+    {
+      "date": 1748044800,
+      "newUsers": 2418,
+      "cumulative": 65387
+    },
+    {
+      "date": 1748131200,
+      "newUsers": 2270,
+      "cumulative": 67657
+    },
+    {
+      "date": 1748217600,
+      "newUsers": 5292,
+      "cumulative": 72949
+    },
+    {
+      "date": 1748304000,
+      "newUsers": 6213,
+      "cumulative": 79162
+    },
+    {
+      "date": 1748390400,
+      "newUsers": 5971,
+      "cumulative": 85133
+    },
+    {
+      "date": 1748476800,
+      "newUsers": 3003,
+      "cumulative": 88136
+    },
+    {
+      "date": 1748563200,
+      "newUsers": 2307,
+      "cumulative": 90443
+    },
+    {
+      "date": 1748649600,
+      "newUsers": 3883,
+      "cumulative": 94326
+    },
+    {
+      "date": 1748736000,
+      "newUsers": 3186,
+      "cumulative": 97512
+    },
+    {
+      "date": 1748822400,
+      "newUsers": 3189,
+      "cumulative": 100701
+    },
+    {
+      "date": 1748908800,
+      "newUsers": 827,
+      "cumulative": 101528
+    },
+    {
+      "date": 1748995200,
+      "newUsers": 2299,
+      "cumulative": 103827
+    },
+    {
+      "date": 1749081600,
+      "newUsers": 3062,
+      "cumulative": 106889
+    },
+    {
+      "date": 1749168000,
+      "newUsers": 1087,
+      "cumulative": 107976
+    },
+    {
+      "date": 1749254400,
+      "newUsers": 3083,
+      "cumulative": 111059
+    },
+    {
+      "date": 1749340800,
+      "newUsers": 504,
+      "cumulative": 111563
+    },
+    {
+      "date": 1749427200,
+      "newUsers": 1806,
+      "cumulative": 113369
+    },
+    {
+      "date": 1749513600,
+      "newUsers": 3394,
+      "cumulative": 116763
+    },
+    {
+      "date": 1749600000,
+      "newUsers": 3312,
+      "cumulative": 120075
+    },
+    {
+      "date": 1749686400,
+      "newUsers": 2677,
+      "cumulative": 122752
+    },
+    {
+      "date": 1749772800,
+      "newUsers": 2629,
+      "cumulative": 125381
+    },
+    {
+      "date": 1749859200,
+      "newUsers": 361,
+      "cumulative": 125742
+    },
+    {
+      "date": 1749945600,
+      "newUsers": 342,
+      "cumulative": 126084
+    },
+    {
+      "date": 1750032000,
+      "newUsers": 830,
+      "cumulative": 126914
+    },
+    {
+      "date": 1750118400,
+      "newUsers": 2723,
+      "cumulative": 129637
+    },
+    {
+      "date": 1750204800,
+      "newUsers": 2385,
+      "cumulative": 132022
+    },
+    {
+      "date": 1750291200,
+      "newUsers": 1089,
+      "cumulative": 133111
+    },
+    {
+      "date": 1750377600,
+      "newUsers": 797,
+      "cumulative": 133908
+    },
+    {
+      "date": 1750464000,
+      "newUsers": 408,
+      "cumulative": 134316
+    },
+    {
+      "date": 1750550400,
+      "newUsers": 455,
+      "cumulative": 134771
+    },
+    {
+      "date": 1750636800,
+      "newUsers": 709,
+      "cumulative": 135480
+    },
+    {
+      "date": 1750723200,
+      "newUsers": 1026,
+      "cumulative": 136506
+    },
+    {
+      "date": 1750809600,
+      "newUsers": 547,
+      "cumulative": 137053
+    },
+    {
+      "date": 1750896000,
+      "newUsers": 3006,
+      "cumulative": 140059
+    },
+    {
+      "date": 1750982400,
+      "newUsers": 1352,
+      "cumulative": 141411
+    },
+    {
+      "date": 1751068800,
+      "newUsers": 1374,
+      "cumulative": 142785
+    },
+    {
+      "date": 1751155200,
+      "newUsers": 560,
+      "cumulative": 143345
+    },
+    {
+      "date": 1751241600,
+      "newUsers": 623,
+      "cumulative": 143968
+    },
+    {
+      "date": 1751328000,
+      "newUsers": 3093,
+      "cumulative": 147061
+    },
+    {
+      "date": 1751414400,
+      "newUsers": 385,
+      "cumulative": 147446
+    },
+    {
+      "date": 1751500800,
+      "newUsers": 888,
+      "cumulative": 148334
+    },
+    {
+      "date": 1751587200,
+      "newUsers": 1422,
+      "cumulative": 149756
+    },
+    {
+      "date": 1751673600,
+      "newUsers": 294,
+      "cumulative": 150050
+    },
+    {
+      "date": 1751760000,
+      "newUsers": 488,
+      "cumulative": 150538
+    },
+    {
+      "date": 1751846400,
+      "newUsers": 296,
+      "cumulative": 150834
+    },
+    {
+      "date": 1751932800,
+      "newUsers": 287,
+      "cumulative": 151121
+    },
+    {
+      "date": 1752019200,
+      "newUsers": 636,
+      "cumulative": 151757
+    },
+    {
+      "date": 1752105600,
+      "newUsers": 613,
+      "cumulative": 152370
+    },
+    {
+      "date": 1752192000,
+      "newUsers": 416,
+      "cumulative": 152786
+    },
+    {
+      "date": 1752278400,
+      "newUsers": 335,
+      "cumulative": 153121
+    },
+    {
+      "date": 1752364800,
+      "newUsers": 376,
+      "cumulative": 153497
+    },
+    {
+      "date": 1752451200,
+      "newUsers": 661,
+      "cumulative": 154158
+    },
+    {
+      "date": 1752537600,
+      "newUsers": 491,
+      "cumulative": 154649
+    },
+    {
+      "date": 1752624000,
+      "newUsers": 438,
+      "cumulative": 155087
+    },
+    {
+      "date": 1752710400,
+      "newUsers": 411,
+      "cumulative": 155498
+    },
+    {
+      "date": 1752796800,
+      "newUsers": 405,
+      "cumulative": 155903
+    },
+    {
+      "date": 1752883200,
+      "newUsers": 228,
+      "cumulative": 156131
+    },
+    {
+      "date": 1752969600,
+      "newUsers": 209,
+      "cumulative": 156340
+    },
+    {
+      "date": 1753056000,
+      "newUsers": 424,
+      "cumulative": 156764
+    },
+    {
+      "date": 1753142400,
+      "newUsers": 468,
+      "cumulative": 157232
+    },
+    {
+      "date": 1753228800,
+      "newUsers": 491,
+      "cumulative": 157723
+    },
+    {
+      "date": 1753315200,
+      "newUsers": 337,
+      "cumulative": 158060
+    },
+    {
+      "date": 1753401600,
+      "newUsers": 573,
+      "cumulative": 158633
+    },
+    {
+      "date": 1753488000,
+      "newUsers": 325,
+      "cumulative": 158958
+    },
+    {
+      "date": 1753574400,
+      "newUsers": 261,
+      "cumulative": 159219
+    },
+    {
+      "date": 1753660800,
+      "newUsers": 239,
+      "cumulative": 159458
+    },
+    {
+      "date": 1753747200,
+      "newUsers": 232,
+      "cumulative": 159690
+    },
+    {
+      "date": 1753833600,
+      "newUsers": 214,
+      "cumulative": 159904
+    },
+    {
+      "date": 1753920000,
+      "newUsers": 464,
+      "cumulative": 160368
+    },
+    {
+      "date": 1754006400,
+      "newUsers": 192,
+      "cumulative": 160560
+    },
+    {
+      "date": 1754092800,
+      "newUsers": 165,
+      "cumulative": 160725
+    },
+    {
+      "date": 1754179200,
+      "newUsers": 201,
+      "cumulative": 160926
+    },
+    {
+      "date": 1754265600,
+      "newUsers": 298,
+      "cumulative": 161224
+    },
+    {
+      "date": 1754352000,
+      "newUsers": 343,
+      "cumulative": 161567
+    },
+    {
+      "date": 1754438400,
+      "newUsers": 238,
+      "cumulative": 161805
+    },
+    {
+      "date": 1754524800,
+      "newUsers": 207,
+      "cumulative": 162012
+    },
+    {
+      "date": 1754611200,
+      "newUsers": 190,
+      "cumulative": 162202
+    },
+    {
+      "date": 1754697600,
+      "newUsers": 187,
+      "cumulative": 162389
+    },
+    {
+      "date": 1754784000,
+      "newUsers": 165,
+      "cumulative": 162554
+    },
+    {
+      "date": 1754870400,
+      "newUsers": 358,
+      "cumulative": 162912
+    },
+    {
+      "date": 1754956800,
+      "newUsers": 206,
+      "cumulative": 163118
+    },
+    {
+      "date": 1755043200,
+      "newUsers": 245,
+      "cumulative": 163363
+    },
+    {
+      "date": 1755129600,
+      "newUsers": 329,
+      "cumulative": 163692
+    },
+    {
+      "date": 1755216000,
+      "newUsers": 186,
+      "cumulative": 163878
+    },
+    {
+      "date": 1755302400,
+      "newUsers": 195,
+      "cumulative": 164073
+    },
+    {
+      "date": 1755388800,
+      "newUsers": 157,
+      "cumulative": 164230
+    },
+    {
+      "date": 1755475200,
+      "newUsers": 223,
+      "cumulative": 164453
+    },
+    {
+      "date": 1755561600,
+      "newUsers": 172,
+      "cumulative": 164625
+    },
+    {
+      "date": 1755648000,
+      "newUsers": 166,
+      "cumulative": 164791
+    },
+    {
+      "date": 1755734400,
+      "newUsers": 192,
+      "cumulative": 164983
+    },
+    {
+      "date": 1755820800,
+      "newUsers": 144,
+      "cumulative": 165127
+    },
+    {
+      "date": 1755907200,
+      "newUsers": 147,
+      "cumulative": 165274
+    },
+    {
+      "date": 1755993600,
+      "newUsers": 138,
+      "cumulative": 165412
+    },
+    {
+      "date": 1756080000,
+      "newUsers": 190,
+      "cumulative": 165602
+    },
+    {
+      "date": 1756166400,
+      "newUsers": 170,
+      "cumulative": 165772
+    },
+    {
+      "date": 1756252800,
+      "newUsers": 182,
+      "cumulative": 165954
+    },
+    {
+      "date": 1756339200,
+      "newUsers": 203,
+      "cumulative": 166157
+    },
+    {
+      "date": 1756425600,
+      "newUsers": 173,
+      "cumulative": 166330
+    },
+    {
+      "date": 1756512000,
+      "newUsers": 127,
+      "cumulative": 166457
+    },
+    {
+      "date": 1756598400,
+      "newUsers": 106,
+      "cumulative": 166563
+    },
+    {
+      "date": 1756684800,
+      "newUsers": 156,
+      "cumulative": 166719
+    },
+    {
+      "date": 1756771200,
+      "newUsers": 167,
+      "cumulative": 166886
+    },
+    {
+      "date": 1756857600,
+      "newUsers": 251,
+      "cumulative": 167137
+    },
+    {
+      "date": 1756944000,
+      "newUsers": 244,
+      "cumulative": 167381
+    },
+    {
+      "date": 1757030400,
+      "newUsers": 165,
+      "cumulative": 167546
+    },
+    {
+      "date": 1757116800,
+      "newUsers": 129,
+      "cumulative": 167675
+    },
+    {
+      "date": 1757203200,
+      "newUsers": 174,
+      "cumulative": 167849
+    },
+    {
+      "date": 1757289600,
+      "newUsers": 167,
+      "cumulative": 168016
+    },
+    {
+      "date": 1757376000,
+      "newUsers": 168,
+      "cumulative": 168184
+    },
+    {
+      "date": 1757462400,
+      "newUsers": 129,
+      "cumulative": 168313
+    },
+    {
+      "date": 1757548800,
+      "newUsers": 187,
+      "cumulative": 168500
+    },
+    {
+      "date": 1757635200,
+      "newUsers": 245,
+      "cumulative": 168745
+    },
+    {
+      "date": 1757721600,
+      "newUsers": 232,
+      "cumulative": 168977
+    },
+    {
+      "date": 1757808000,
+      "newUsers": 132,
+      "cumulative": 169109
+    },
+    {
+      "date": 1757894400,
+      "newUsers": 183,
+      "cumulative": 169292
+    },
+    {
+      "date": 1757980800,
+      "newUsers": 142,
+      "cumulative": 169434
+    },
+    {
+      "date": 1758067200,
+      "newUsers": 104,
+      "cumulative": 169538
+    },
+    {
+      "date": 1758153600,
+      "newUsers": 152,
+      "cumulative": 169690
+    },
+    {
+      "date": 1758240000,
+      "newUsers": 141,
+      "cumulative": 169831
+    },
+    {
+      "date": 1758326400,
+      "newUsers": 141,
+      "cumulative": 169972
+    },
+    {
+      "date": 1758412800,
+      "newUsers": 110,
+      "cumulative": 170082
+    },
+    {
+      "date": 1758499200,
+      "newUsers": 144,
+      "cumulative": 170226
+    },
+    {
+      "date": 1758585600,
+      "newUsers": 148,
+      "cumulative": 170374
+    },
+    {
+      "date": 1758672000,
+      "newUsers": 127,
+      "cumulative": 170501
+    },
+    {
+      "date": 1758758400,
+      "newUsers": 125,
+      "cumulative": 170626
+    },
+    {
+      "date": 1758844800,
+      "newUsers": 116,
+      "cumulative": 170742
+    },
+    {
+      "date": 1758931200,
+      "newUsers": 100,
+      "cumulative": 170842
+    },
+    {
+      "date": 1759017600,
+      "newUsers": 88,
+      "cumulative": 170930
+    },
+    {
+      "date": 1759104000,
+      "newUsers": 466,
+      "cumulative": 171396
+    },
+    {
+      "date": 1759190400,
+      "newUsers": 255,
+      "cumulative": 171651
+    },
+    {
+      "date": 1759276800,
+      "newUsers": 250,
+      "cumulative": 171901
+    },
+    {
+      "date": 1759363200,
+      "newUsers": 280,
+      "cumulative": 172181
+    },
+    {
+      "date": 1759449600,
+      "newUsers": 178,
+      "cumulative": 172359
+    },
+    {
+      "date": 1759536000,
+      "newUsers": 131,
+      "cumulative": 172490
+    },
+    {
+      "date": 1759622400,
+      "newUsers": 177,
+      "cumulative": 172667
+    },
+    {
+      "date": 1759708800,
+      "newUsers": 122,
+      "cumulative": 172789
+    },
+    {
+      "date": 1759795200,
+      "newUsers": 123,
+      "cumulative": 172912
+    },
+    {
+      "date": 1759881600,
+      "newUsers": 137,
+      "cumulative": 173049
+    },
+    {
+      "date": 1759968000,
+      "newUsers": 124,
+      "cumulative": 173173
+    },
+    {
+      "date": 1760054400,
+      "newUsers": 139,
+      "cumulative": 173312
+    },
+    {
+      "date": 1760140800,
+      "newUsers": 164,
+      "cumulative": 173476
+    },
+    {
+      "date": 1760227200,
+      "newUsers": 121,
+      "cumulative": 173597
+    },
+    {
+      "date": 1760313600,
+      "newUsers": 157,
+      "cumulative": 173754
+    },
+    {
+      "date": 1760400000,
+      "newUsers": 235,
+      "cumulative": 173989
+    },
+    {
+      "date": 1760486400,
+      "newUsers": 207,
+      "cumulative": 174196
+    },
+    {
+      "date": 1760572800,
+      "newUsers": 161,
+      "cumulative": 174357
+    },
+    {
+      "date": 1760659200,
+      "newUsers": 126,
+      "cumulative": 174483
+    },
+    {
+      "date": 1760745600,
+      "newUsers": 192,
+      "cumulative": 174675
+    },
+    {
+      "date": 1760832000,
+      "newUsers": 171,
+      "cumulative": 174846
+    },
+    {
+      "date": 1760918400,
+      "newUsers": 458,
+      "cumulative": 175304
+    },
+    {
+      "date": 1761004800,
+      "newUsers": 303,
+      "cumulative": 175607
+    },
+    {
+      "date": 1761091200,
+      "newUsers": 139,
+      "cumulative": 175746
+    },
+    {
+      "date": 1761177600,
+      "newUsers": 152,
+      "cumulative": 175898
+    },
+    {
+      "date": 1761264000,
+      "newUsers": 116,
+      "cumulative": 176014
+    },
+    {
+      "date": 1761350400,
+      "newUsers": 274,
+      "cumulative": 176288
+    },
+    {
+      "date": 1761436800,
+      "newUsers": 101,
+      "cumulative": 176389
+    },
+    {
+      "date": 1761523200,
+      "newUsers": 143,
+      "cumulative": 176532
+    },
+    {
+      "date": 1761609600,
+      "newUsers": 111,
+      "cumulative": 176643
+    },
+    {
+      "date": 1761696000,
+      "newUsers": 85,
+      "cumulative": 176728
+    },
+    {
+      "date": 1761782400,
+      "newUsers": 92,
+      "cumulative": 176820
+    },
+    {
+      "date": 1761868800,
+      "newUsers": 111,
+      "cumulative": 176931
+    },
+    {
+      "date": 1761955200,
+      "newUsers": 81,
+      "cumulative": 177012
+    },
+    {
+      "date": 1762041600,
+      "newUsers": 102,
+      "cumulative": 177114
+    },
+    {
+      "date": 1762128000,
+      "newUsers": 59,
+      "cumulative": 177173
+    },
+    {
+      "date": 1762214400,
+      "newUsers": 69,
+      "cumulative": 177242
+    },
+    {
+      "date": 1762300800,
+      "newUsers": 65,
+      "cumulative": 177307
+    },
+    {
+      "date": 1762387200,
+      "newUsers": 64,
+      "cumulative": 177371
+    },
+    {
+      "date": 1762473600,
+      "newUsers": 53,
+      "cumulative": 177424
+    },
+    {
+      "date": 1762560000,
+      "newUsers": 31,
+      "cumulative": 177455
+    },
+    {
+      "date": 1762646400,
+      "newUsers": 41,
+      "cumulative": 177496
+    },
+    {
+      "date": 1762732800,
+      "newUsers": 63,
+      "cumulative": 177559
+    },
+    {
+      "date": 1762819200,
+      "newUsers": 70,
+      "cumulative": 177629
+    },
+    {
+      "date": 1762905600,
+      "newUsers": 61,
+      "cumulative": 177690
+    },
+    {
+      "date": 1762992000,
+      "newUsers": 50,
+      "cumulative": 177740
+    },
+    {
+      "date": 1763078400,
+      "newUsers": 71,
+      "cumulative": 177811
+    },
+    {
+      "date": 1763164800,
+      "newUsers": 32,
+      "cumulative": 177843
+    },
+    {
+      "date": 1763251200,
+      "newUsers": 41,
+      "cumulative": 177884
+    },
+    {
+      "date": 1763337600,
+      "newUsers": 25,
+      "cumulative": 177909
+    },
+    {
+      "date": 1763424000,
+      "newUsers": 32,
+      "cumulative": 177941
+    },
+    {
+      "date": 1763510400,
+      "newUsers": 69,
+      "cumulative": 178010
+    },
+    {
+      "date": 1763596800,
+      "newUsers": 45,
+      "cumulative": 178055
+    },
+    {
+      "date": 1763683200,
+      "newUsers": 45,
+      "cumulative": 178100
+    },
+    {
+      "date": 1763769600,
+      "newUsers": 38,
+      "cumulative": 178138
+    },
+    {
+      "date": 1763856000,
+      "newUsers": 28,
+      "cumulative": 178166
+    },
+    {
+      "date": 1763942400,
+      "newUsers": 40,
+      "cumulative": 178206
+    },
+    {
+      "date": 1764028800,
+      "newUsers": 43,
+      "cumulative": 178249
+    },
+    {
+      "date": 1764115200,
+      "newUsers": 39,
+      "cumulative": 178288
+    },
+    {
+      "date": 1764201600,
+      "newUsers": 75,
+      "cumulative": 178363
+    },
+    {
+      "date": 1764288000,
+      "newUsers": 23,
+      "cumulative": 178386
+    },
+    {
+      "date": 1764374400,
+      "newUsers": 19,
+      "cumulative": 178405
+    },
+    {
+      "date": 1764460800,
+      "newUsers": 33,
+      "cumulative": 178438
+    },
+    {
+      "date": 1764547200,
+      "newUsers": 218,
+      "cumulative": 178656
+    },
+    {
+      "date": 1764633600,
+      "newUsers": 130,
+      "cumulative": 178786
+    },
+    {
+      "date": 1764720000,
+      "newUsers": 109,
+      "cumulative": 178895
+    },
+    {
+      "date": 1764806400,
+      "newUsers": 23,
+      "cumulative": 178918
+    },
+    {
+      "date": 1764892800,
+      "newUsers": 22,
+      "cumulative": 178940
+    },
+    {
+      "date": 1764979200,
+      "newUsers": 19,
+      "cumulative": 178959
+    },
+    {
+      "date": 1765065600,
+      "newUsers": 22,
+      "cumulative": 178981
+    },
+    {
+      "date": 1765152000,
+      "newUsers": 54,
+      "cumulative": 179035
+    },
+    {
+      "date": 1765238400,
+      "newUsers": 45,
+      "cumulative": 179080
+    },
+    {
+      "date": 1765324800,
+      "newUsers": 43,
+      "cumulative": 179123
+    },
+    {
+      "date": 1765411200,
+      "newUsers": 23,
+      "cumulative": 179146
+    },
+    {
+      "date": 1765497600,
+      "newUsers": 28,
+      "cumulative": 179174
+    },
+    {
+      "date": 1765584000,
+      "newUsers": 13,
+      "cumulative": 179187
+    },
+    {
+      "date": 1765670400,
+      "newUsers": 22,
+      "cumulative": 179209
+    },
+    {
+      "date": 1765756800,
+      "newUsers": 29,
+      "cumulative": 179238
+    },
+    {
+      "date": 1765843200,
+      "newUsers": 24,
+      "cumulative": 179262
+    },
+    {
+      "date": 1765929600,
+      "newUsers": 23,
+      "cumulative": 179285
+    },
+    {
+      "date": 1766016000,
+      "newUsers": 23,
+      "cumulative": 179308
+    },
+    {
+      "date": 1766102400,
+      "newUsers": 46,
+      "cumulative": 179354
+    },
+    {
+      "date": 1766188800,
+      "newUsers": 12,
+      "cumulative": 179366
+    },
+    {
+      "date": 1766275200,
+      "newUsers": 11,
+      "cumulative": 179377
+    },
+    {
+      "date": 1766361600,
+      "newUsers": 15,
+      "cumulative": 179392
+    },
+    {
+      "date": 1766448000,
+      "newUsers": 20,
+      "cumulative": 179412
+    },
+    {
+      "date": 1766534400,
+      "newUsers": 21,
+      "cumulative": 179433
+    },
+    {
+      "date": 1766620800,
+      "newUsers": 4,
+      "cumulative": 179437
+    },
+    {
+      "date": 1766707200,
+      "newUsers": 18,
+      "cumulative": 179455
+    },
+    {
+      "date": 1766793600,
+      "newUsers": 19,
+      "cumulative": 179474
+    },
+    {
+      "date": 1766880000,
+      "newUsers": 13,
+      "cumulative": 179487
+    },
+    {
+      "date": 1766966400,
+      "newUsers": 18,
+      "cumulative": 179505
+    },
+    {
+      "date": 1767052800,
+      "newUsers": 22,
+      "cumulative": 179527
+    },
+    {
+      "date": 1767139200,
+      "newUsers": 25,
+      "cumulative": 179552
+    },
+    {
+      "date": 1767225600,
+      "newUsers": 22,
+      "cumulative": 179574
+    },
+    {
+      "date": 1767312000,
+      "newUsers": 16,
+      "cumulative": 179590
+    },
+    {
+      "date": 1767398400,
+      "newUsers": 12,
+      "cumulative": 179602
+    },
+    {
+      "date": 1767484800,
+      "newUsers": 28,
+      "cumulative": 179630
+    },
+    {
+      "date": 1767571200,
+      "newUsers": 74,
+      "cumulative": 179704
+    },
+    {
+      "date": 1767657600,
+      "newUsers": 37,
+      "cumulative": 179741
+    },
+    {
+      "date": 1767744000,
+      "newUsers": 47,
+      "cumulative": 179788
+    },
+    {
+      "date": 1767830400,
+      "newUsers": 21,
+      "cumulative": 179809
+    },
+    {
+      "date": 1767916800,
+      "newUsers": 24,
+      "cumulative": 179833
+    },
+    {
+      "date": 1768003200,
+      "newUsers": 17,
+      "cumulative": 179850
+    },
+    {
+      "date": 1768089600,
+      "newUsers": 18,
+      "cumulative": 179868
+    },
+    {
+      "date": 1768176000,
+      "newUsers": 16,
+      "cumulative": 179884
+    },
+    {
+      "date": 1768262400,
+      "newUsers": 20,
+      "cumulative": 179904
+    },
+    {
+      "date": 1768348800,
+      "newUsers": 29,
+      "cumulative": 179933
+    },
+    {
+      "date": 1768435200,
+      "newUsers": 14,
+      "cumulative": 179947
+    },
+    {
+      "date": 1768521600,
+      "newUsers": 23,
+      "cumulative": 179970
+    },
+    {
+      "date": 1768608000,
+      "newUsers": 13,
+      "cumulative": 179983
+    },
+    {
+      "date": 1768694400,
+      "newUsers": 13,
+      "cumulative": 179996
+    },
+    {
+      "date": 1768780800,
+      "newUsers": 18,
+      "cumulative": 180014
+    },
+    {
+      "date": 1768867200,
+      "newUsers": 17,
+      "cumulative": 180031
+    },
+    {
+      "date": 1768953600,
+      "newUsers": 19,
+      "cumulative": 180050
+    },
+    {
+      "date": 1769040000,
+      "newUsers": 8,
+      "cumulative": 180058
+    },
+    {
+      "date": 1769126400,
+      "newUsers": 15,
+      "cumulative": 180073
+    },
+    {
+      "date": 1769212800,
+      "newUsers": 10,
+      "cumulative": 180083
+    },
+    {
+      "date": 1769299200,
+      "newUsers": 5,
+      "cumulative": 180088
+    },
+    {
+      "date": 1769385600,
+      "newUsers": 15,
+      "cumulative": 180103
+    },
+    {
+      "date": 1769472000,
+      "newUsers": 15,
+      "cumulative": 180118
+    },
+    {
+      "date": 1769558400,
+      "newUsers": 14,
+      "cumulative": 180132
+    },
+    {
+      "date": 1769644800,
+      "newUsers": 16,
+      "cumulative": 180148
+    },
+    {
+      "date": 1769731200,
+      "newUsers": 12,
+      "cumulative": 180160
+    },
+    {
+      "date": 1769817600,
+      "newUsers": 12,
+      "cumulative": 180172
+    },
+    {
+      "date": 1769904000,
+      "newUsers": 12,
+      "cumulative": 180184
+    },
+    {
+      "date": 1769990400,
+      "newUsers": 16,
+      "cumulative": 180200
+    },
+    {
+      "date": 1770076800,
+      "newUsers": 29,
+      "cumulative": 180229
+    },
+    {
+      "date": 1770163200,
+      "newUsers": 21,
+      "cumulative": 180250
+    },
+    {
+      "date": 1770249600,
+      "newUsers": 292,
+      "cumulative": 180542
+    },
+    {
+      "date": 1770336000,
+      "newUsers": 13,
+      "cumulative": 180555
+    },
+    {
+      "date": 1770422400,
+      "newUsers": 6,
+      "cumulative": 180561
+    },
+    {
+      "date": 1770508800,
+      "newUsers": 9,
+      "cumulative": 180570
+    },
+    {
+      "date": 1770595200,
+      "newUsers": 9,
+      "cumulative": 180579
+    },
+    {
+      "date": 1770681600,
+      "newUsers": 9,
+      "cumulative": 180588
+    },
+    {
+      "date": 1770768000,
+      "newUsers": 33,
+      "cumulative": 180621
+    },
+    {
+      "date": 1770854400,
+      "newUsers": 24,
+      "cumulative": 180645
+    },
+    {
+      "date": 1770940800,
+      "newUsers": 18,
+      "cumulative": 180663
+    },
+    {
+      "date": 1771027200,
+      "newUsers": 21,
+      "cumulative": 180684
+    },
+    {
+      "date": 1771113600,
+      "newUsers": 4,
+      "cumulative": 180688
+    },
+    {
+      "date": 1771200000,
+      "newUsers": 11,
+      "cumulative": 180699
+    },
+    {
+      "date": 1771286400,
+      "newUsers": 12,
+      "cumulative": 180711
+    },
+    {
+      "date": 1771372800,
+      "newUsers": 4,
+      "cumulative": 180715
+    },
+    {
+      "date": 1771459200,
+      "newUsers": 9,
+      "cumulative": 180724
+    },
+    {
+      "date": 1771545600,
+      "newUsers": 5,
+      "cumulative": 180729
+    },
+    {
+      "date": 1771632000,
+      "newUsers": 6,
+      "cumulative": 180735
+    },
+    {
+      "date": 1771718400,
+      "newUsers": 1,
+      "cumulative": 180736
+    },
+    {
+      "date": 1771804800,
+      "newUsers": 10,
+      "cumulative": 180746
+    },
+    {
+      "date": 1771891200,
+      "newUsers": 4,
+      "cumulative": 180750
+    },
+    {
+      "date": 1771977600,
+      "newUsers": 9,
+      "cumulative": 180759
+    },
+    {
+      "date": 1772064000,
+      "newUsers": 10,
+      "cumulative": 180769
+    },
+    {
+      "date": 1772150400,
+      "newUsers": 17,
+      "cumulative": 180786
+    },
+    {
+      "date": 1772236800,
+      "newUsers": 7,
+      "cumulative": 180793
+    },
+    {
+      "date": 1772323200,
+      "newUsers": 9,
+      "cumulative": 180802
+    },
+    {
+      "date": 1772409600,
+      "newUsers": 5,
+      "cumulative": 180807
+    },
+    {
+      "date": 1772496000,
+      "newUsers": 8,
+      "cumulative": 180815
+    },
+    {
+      "date": 1772582400,
+      "newUsers": 13,
+      "cumulative": 180828
+    },
+    {
+      "date": 1772668800,
+      "newUsers": 8,
+      "cumulative": 180836
+    },
+    {
+      "date": 1772755200,
+      "newUsers": 11,
+      "cumulative": 180847
+    },
+    {
+      "date": 1772841600,
+      "newUsers": 6,
+      "cumulative": 180853
+    },
+    {
+      "date": 1772928000,
+      "newUsers": 2,
+      "cumulative": 180855
+    },
+    {
+      "date": 1773014400,
+      "newUsers": 10,
+      "cumulative": 180865
+    },
+    {
+      "date": 1773100800,
+      "newUsers": 4,
+      "cumulative": 180869
+    },
+    {
+      "date": 1773187200,
+      "newUsers": 5,
+      "cumulative": 180874
+    },
+    {
+      "date": 1773273600,
+      "newUsers": 7,
+      "cumulative": 180881
+    },
+    {
+      "date": 1773360000,
+      "newUsers": 7,
+      "cumulative": 180888
+    },
+    {
+      "date": 1773446400,
+      "newUsers": 5,
+      "cumulative": 180893
+    },
+    {
+      "date": 1773532800,
+      "newUsers": 3,
+      "cumulative": 180896
+    },
+    {
+      "date": 1773619200,
+      "newUsers": 4,
+      "cumulative": 180900
+    },
+    {
+      "date": 1773705600,
+      "newUsers": 8,
+      "cumulative": 180908
+    },
+    {
+      "date": 1773792000,
+      "newUsers": 12,
+      "cumulative": 180920
+    },
+    {
+      "date": 1773878400,
+      "newUsers": 7,
+      "cumulative": 180927
+    },
+    {
+      "date": 1773964800,
+      "newUsers": 3,
+      "cumulative": 180930
+    },
+    {
+      "date": 1774051200,
+      "newUsers": 8,
+      "cumulative": 180938
+    },
+    {
+      "date": 1774137600,
+      "newUsers": 10,
+      "cumulative": 180948
+    },
+    {
+      "date": 1774224000,
+      "newUsers": 18,
+      "cumulative": 180966
+    },
+    {
+      "date": 1774310400,
+      "newUsers": 7,
+      "cumulative": 180973
+    },
+    {
+      "date": 1774396800,
+      "newUsers": 18,
+      "cumulative": 180991
+    },
+    {
+      "date": 1774483200,
+      "newUsers": 12,
+      "cumulative": 181003
+    },
+    {
+      "date": 1774569600,
+      "newUsers": 8,
+      "cumulative": 181011
+    },
+    {
+      "date": 1774656000,
+      "newUsers": 8,
+      "cumulative": 181019
+    },
+    {
+      "date": 1774742400,
+      "newUsers": 9,
+      "cumulative": 181028
+    },
+    {
+      "date": 1774828800,
+      "newUsers": 4,
+      "cumulative": 181032
+    },
+    {
+      "date": 1774915200,
+      "newUsers": 10,
+      "cumulative": 181042
+    },
+    {
+      "date": 1775001600,
+      "newUsers": 3,
+      "cumulative": 181045
+    },
+    {
+      "date": 1775088000,
+      "newUsers": 4,
+      "cumulative": 181049
+    },
+    {
+      "date": 1775174400,
+      "newUsers": 5,
+      "cumulative": 181054
+    },
+    {
+      "date": 1775260800,
+      "newUsers": 18,
+      "cumulative": 181072
+    },
+    {
+      "date": 1775347200,
+      "newUsers": 7,
+      "cumulative": 181079
+    },
+    {
+      "date": 1775433600,
+      "newUsers": 4,
+      "cumulative": 181083
+    },
+    {
+      "date": 1775520000,
+      "newUsers": 5,
+      "cumulative": 181088
+    },
+    {
+      "date": 1775606400,
+      "newUsers": 11,
+      "cumulative": 181099
+    },
+    {
+      "date": 1775692800,
+      "newUsers": 8,
+      "cumulative": 181107
+    },
+    {
+      "date": 1775779200,
+      "newUsers": 9,
+      "cumulative": 181116
+    },
+    {
+      "date": 1775865600,
+      "newUsers": 5,
+      "cumulative": 181121
+    },
+    {
+      "date": 1775952000,
+      "newUsers": 7,
+      "cumulative": 181128
+    },
+    {
+      "date": 1776038400,
+      "newUsers": 4,
+      "cumulative": 181132
+    },
+    {
+      "date": 1776124800,
+      "newUsers": 3,
+      "cumulative": 181135
+    },
+    {
+      "date": 1776211200,
+      "newUsers": 2,
+      "cumulative": 181137
+    },
+    {
+      "date": 1776297600,
+      "newUsers": 29,
+      "cumulative": 181166
+    },
+    {
+      "date": 1776384000,
+      "newUsers": 27,
+      "cumulative": 181193
+    },
+    {
+      "date": 1776470400,
+      "newUsers": 30,
+      "cumulative": 181223
+    },
+    {
+      "date": 1776556800,
+      "newUsers": 13,
+      "cumulative": 181236
+    },
+    {
+      "date": 1776643200,
+      "newUsers": 4,
+      "cumulative": 181240
+    },
+    {
+      "date": 1776729600,
+      "newUsers": 10,
+      "cumulative": 181250
+    },
+    {
+      "date": 1776816000,
+      "newUsers": 2,
+      "cumulative": 181252
+    },
+    {
+      "date": 1776902400,
+      "newUsers": 6,
+      "cumulative": 181258
+    },
+    {
+      "date": 1776988800,
+      "newUsers": 1,
+      "cumulative": 181259
+    },
+    {
+      "date": 1777075200,
+      "newUsers": 5,
+      "cumulative": 181264
+    },
+    {
+      "date": 1777161600,
+      "newUsers": 5,
+      "cumulative": 181269
+    },
+    {
+      "date": 1777248000,
+      "newUsers": 41,
+      "cumulative": 181310
+    },
+    {
+      "date": 1777334400,
+      "newUsers": 14,
+      "cumulative": 181324
+    },
+    {
+      "date": 1777420800,
+      "newUsers": 6,
+      "cumulative": 181330
+    },
+    {
+      "date": 1777593600,
+      "newUsers": 2,
+      "cumulative": 181332
+    },
+    {
+      "date": 1777680000,
+      "newUsers": 3,
+      "cumulative": 181335
+    },
+    {
+      "date": 1777766400,
+      "newUsers": 2,
+      "cumulative": 181337
+    },
+    {
+      "date": 1777852800,
+      "newUsers": 2,
+      "cumulative": 181339
+    },
+    {
+      "date": 1777939200,
+      "newUsers": 4,
+      "cumulative": 181343
+    },
+    {
+      "date": 1778025600,
+      "newUsers": 3,
+      "cumulative": 181346
+    },
+    {
+      "date": 1778112000,
+      "newUsers": 3,
+      "cumulative": 181349
+    },
+    {
+      "date": 1778284800,
+      "newUsers": 5,
+      "cumulative": 181354
+    },
+    {
+      "date": 1778544000,
+      "newUsers": 7,
+      "cumulative": 181361
+    },
+    {
+      "date": 1778630400,
+      "newUsers": 2,
+      "cumulative": 181363
+    },
+    {
+      "date": 1778716800,
+      "newUsers": 21,
+      "cumulative": 181384
+    },
+    {
+      "date": 1778803200,
+      "newUsers": 52,
+      "cumulative": 181436
+    },
+    {
+      "date": 1778889600,
+      "newUsers": 7,
+      "cumulative": 181443
+    },
+    {
+      "date": 1778976000,
+      "newUsers": 22,
+      "cumulative": 181465
+    },
+    {
+      "date": 1779062400,
+      "newUsers": 16,
+      "cumulative": 181481
+    },
+    {
+      "date": 1779148800,
+      "newUsers": 13,
+      "cumulative": 181494
+    },
+    {
+      "date": 1779235200,
+      "newUsers": 214,
+      "cumulative": 181708
+    },
+    {
+      "date": 1779321600,
+      "newUsers": 27,
+      "cumulative": 181735
+    },
+    {
+      "date": 1779408000,
+      "newUsers": 12,
+      "cumulative": 181747
+    },
+    {
+      "date": 1779494400,
+      "newUsers": 11,
+      "cumulative": 181758
+    },
+    {
+      "date": 1779580800,
+      "newUsers": 11,
+      "cumulative": 181769
+    },
+    {
+      "date": 1779667200,
+      "newUsers": 83,
+      "cumulative": 181852
+    },
+    {
+      "date": 1779753600,
+      "newUsers": 55,
+      "cumulative": 181907
+    },
+    {
+      "date": 1779840000,
+      "newUsers": 290,
+      "cumulative": 182197
+    },
+    {
+      "date": 1779926400,
+      "newUsers": 30,
+      "cumulative": 182227
+    },
+    {
+      "date": 1780012800,
+      "newUsers": 11,
+      "cumulative": 182238
+    },
+    {
+      "date": 1780099200,
+      "newUsers": 7,
+      "cumulative": 182245
+    },
+    {
+      "date": 1780185600,
+      "newUsers": 10,
+      "cumulative": 182255
+    },
+    {
+      "date": 1780272000,
+      "newUsers": 11,
+      "cumulative": 182266
+    },
+    {
+      "date": 1780358400,
+      "newUsers": 14,
+      "cumulative": 182280
+    },
+    {
+      "date": 1780444800,
+      "newUsers": 7,
+      "cumulative": 182287
+    },
+    {
+      "date": 1780531200,
+      "newUsers": 6,
+      "cumulative": 182293
+    },
+    {
+      "date": 1780617600,
+      "newUsers": 6,
+      "cumulative": 182299
+    },
+    {
+      "date": 1780704000,
+      "newUsers": 7,
+      "cumulative": 182306
+    },
+    {
+      "date": 1780790400,
+      "newUsers": 6,
+      "cumulative": 182312
+    },
+    {
+      "date": 1780876800,
+      "newUsers": 10,
+      "cumulative": 182322
+    },
+    {
+      "date": 1780963200,
+      "newUsers": 20,
+      "cumulative": 182342
+    },
+    {
+      "date": 1781049600,
+      "newUsers": 8,
+      "cumulative": 182350
+    },
+    {
+      "date": 1781136000,
+      "newUsers": 5,
+      "cumulative": 182355
+    },
+    {
+      "date": 1781222400,
+      "newUsers": 7,
+      "cumulative": 182362
+    },
+    {
+      "date": 1781308800,
+      "newUsers": 3,
+      "cumulative": 182365
+    },
+    {
+      "date": 1781395200,
+      "newUsers": 1,
+      "cumulative": 182366
+    }
+  ]
+}
