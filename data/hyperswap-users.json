@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-18T06:04:59.934Z",
+  "updatedAt": "2026-07-19T06:01:10.630Z",
   "source": "dune:7721591",
-  "total": 208762,
+  "total": 208805,
   "series": [
     {
       "date": 1739836800,
@@ -3092,6 +3092,12 @@
       "newUsers": 79,
       "cumulative": 208762,
       "activeUsers": 920
+    },
+    {
+      "date": 1784332800,
+      "newUsers": 43,
+      "cumulative": 208805,
+      "activeUsers": 715
     }
   ]
 }
