@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T06:00:21.311Z",
+  "updatedAt": "2026-08-31T11:11:18.432Z",
   "source": "dune:7721591",
-  "total": 230867,
+  "total": 237220,
   "series": [
     {
       "date": 1739836800,
@@ -3326,6 +3326,36 @@
       "newUsers": 1810,
       "cumulative": 230867,
       "activeUsers": 7043
+    },
+    {
+      "date": 1787702400,
+      "newUsers": 1492,
+      "cumulative": 232359,
+      "activeUsers": 6438
+    },
+    {
+      "date": 1787788800,
+      "newUsers": 1073,
+      "cumulative": 233432,
+      "activeUsers": 5488
+    },
+    {
+      "date": 1787875200,
+      "newUsers": 2292,
+      "cumulative": 235724,
+      "activeUsers": 6434
+    },
+    {
+      "date": 1787961600,
+      "newUsers": 660,
+      "cumulative": 236384,
+      "activeUsers": 3894
+    },
+    {
+      "date": 1788048000,
+      "newUsers": 836,
+      "cumulative": 237220,
+      "activeUsers": 3707
     }
   ]
 }
