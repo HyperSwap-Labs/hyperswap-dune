@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T06:06:49.021Z",
+  "updatedAt": "2026-08-31T10:57:38.015Z",
   "source": "subgraph:hyperswap-v2+v3",
-  "total": 9569,
+  "total": 9617,
   "v2Total": 3254,
-  "v3Total": 6315,
+  "v3Total": 6363,
   "series": [
     {
       "date": 1739836800,
@@ -3362,8 +3362,8 @@
     {
       "date": 1788134400,
       "v2": 3254,
-      "v3": 6315,
-      "total": 9569
+      "v3": 6363,
+      "total": 9617
     }
   ]
 }
